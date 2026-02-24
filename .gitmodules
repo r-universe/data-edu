@@ -5,3 +5,7 @@
 [submodule "tidyLPA"]
 	path = tidyLPA
 	url = https://github.com/data-edu/tidylpa
+[submodule "tidySEM"]
+	path = tidySEM
+	url = https://github.com/cjvanlissa/tidySEM
+	registered = false
